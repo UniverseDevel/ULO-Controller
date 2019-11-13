@@ -1,0 +1,20 @@
+
+[2019.11.13 - 10:27:25]
+Argument 00 = '192.168.100.99' (used_default: False)
+Argument 01 = 'test_user@example.com' (used_default: False)
+Argument 02 = '****' (used_default: False)
+Argument 03 = 'downloadsnapshots' (used_default: False)
+Argument 04 = 'nfs' (used_default: False)
+Argument 05 = '\\UniverseNAS\camera\ulo\_snapshots' (used_default: False)
+Argument 06 = '100' (used_default: False)
+Argument 07 = '480' (used_default: False)
+Argument 08 = 'camera' (used_default: False)
+Argument 09 = '****' (used_default: False)
+Argument 10 = '' (used_default: True)
+Argument 11 = '' (used_default: True)
+
+
+[2019.11.13 - 10:27:26]
+Failed. (Error: Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again)
+Failed. (Error: Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again)
+Failed. (Error: Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed. Disconnect all previous connections to the server or shared resource and try again)
